@@ -20,7 +20,7 @@
 ## Recent Blog Posts(最新文章)
 
 <!-- BLOG-POST-LIST:START -->
-- [TEST](http://doublechuang.nctu.me//test/2019/02/14/123test/)
+- [TEST](https://doublechuang.github.io//test/2019/02/14/123test/)
 <!-- BLOG-POST-LIST:END -->
 
 ## SNS / 聯絡(Contact)
