@@ -20,13 +20,8 @@
 ## Recent Blog Posts(最新文章)
 
 <!-- BLOG-POST-LIST:START -->
-- [TEST](https://doublechuang.github.io/test/2019/02/14/123test/)
+- 
 <!-- BLOG-POST-LIST:END -->
-
-## SNS / 聯絡(Contact)
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat)](https://github.com/DoubleChuang)
-[![Blog](https://img.shields.io/badge/-Blog-4078c0?logo=jekyll&style=flat)](https://doublechuang.github.io/)
 
 ## Technologies(技術)
 
