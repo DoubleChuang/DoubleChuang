@@ -20,7 +20,11 @@
 ## Recent Blog Posts(最新文章)
 
 <!-- BLOG-POST-LIST:START -->
-- [TEST](https://doublechuang.github.io/test/2019/02/14/123test/)
+- [08 - 日常維護](https://doublechuang.github.io/posts/08-%E6%97%A5%E5%B8%B8%E7%B6%AD%E8%AD%B7/)
+- [07 - 遠端存取](https://doublechuang.github.io/posts/07-%E9%81%A0%E7%AB%AF%E5%AD%98%E5%8F%96/)
+- [06 - HomeKit 與 Siri](https://doublechuang.github.io/posts/06-HomeKit%E8%88%87Siri/)
+- [05 - 塗鴉插座整合](https://doublechuang.github.io/posts/05-%E5%A1%97%E9%B4%89%E6%8F%92%E5%BA%A7/)
+- [04 - 疑難排解](https://doublechuang.github.io/posts/04-%E7%96%91%E9%9B%A3%E6%8E%92%E8%A7%A3/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Technologies(技術)
