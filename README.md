@@ -35,4 +35,4 @@
 [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&style=flat)](https://github.com/search?q=user%3ADoubleChuang+topic%3Apytorch&type=repositories)
 [![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&style=flat)](https://github.com/search?q=user%3ADoubleChuang+topic%3Aopencv&type=repositories)
 [![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&style=flat)](https://github.com/search?q=user%3ADoubleChuang+topic%3Aqt&type=repositories)
-[![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&style=flat)](https://github.com/search?q=user%3ADoubleChuang+topic%3Aopenai&type=repositories)
+[![FastAI](https://img.shields.io/badge/-FastAI-5A95D5?style=flat)](https://github.com/search?q=user%3ADoubleChuang+topic%3Afastai&type=repositories)
