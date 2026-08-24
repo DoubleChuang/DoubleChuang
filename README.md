@@ -6,32 +6,9 @@
 
 ## Project Pages(專案頁面)
 
-<div style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;padding:8px 0;">
-  <a href="https://doublechuang.github.io/price-libra/" style="text-decoration:none;color:inherit;">
-    <div style="border:1px solid rgba(140,140,160,0.4);border-radius:10px;padding:14px 18px;width:300px;text-align:center;background:rgba(140,140,160,0.05);">
-      <img src="https://img.shields.io/badge/price--libra-比價網站-2ea44f" alt="price-libra">
-      <p style="margin:8px 0 2px;font-weight:600;">price-libra</p>
-      <p style="margin:0;font-size:13px;color:#8b949e;">台灣各賣場商品價格比較網站<br>Price comparison website for Taiwanese retailers</p>
-      <p style="margin:8px 0 0;"><img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&style=flat"></p>
-    </div>
-  </a>
-  <a href="https://doublechuang.github.io/time-chamber/" style="text-decoration:none;color:inherit;">
-    <div style="border:1px solid rgba(140,140,160,0.4);border-radius:10px;padding:14px 18px;width:300px;text-align:center;background:rgba(140,140,160,0.05);">
-      <img src="https://img.shields.io/badge/time--chamber-自由潛水-4e9a06" alt="time-chamber">
-      <p style="margin:8px 0 2px;font-weight:600;">time-chamber</p>
-      <p style="margin:0;font-size:13px;color:#8b949e;">自由潛水呼吸訓練 — 雙曲線時間艙<br>Freediving breathing trainer — Hyperbolic Time Chamber</p>
-      <p style="margin:8px 0 0;"><img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&style=flat"></p>
-    </div>
-  </a>
-  <a href="https://doublechuang.github.io/" style="text-decoration:none;color:inherit;">
-    <div style="border:1px solid rgba(140,140,160,0.4);border-radius:10px;padding:14px 18px;width:300px;text-align:center;background:rgba(140,140,160,0.05);">
-      <img src="https://img.shields.io/badge/doublechuang.github.io-部落格-4078c0" alt="doublechuang.github.io">
-      <p style="margin:8px 0 2px;font-weight:600;">doublechuang.github.io</p>
-      <p style="margin:0;font-size:13px;color:#8b949e;">個人部落格與網站<br>Personal blog and website</p>
-      <p style="margin:8px 0 0;"><img src="https://img.shields.io/badge/-Jekyll-CC0000?logo=jekyll&style=flat"></p>
-    </div>
-  </a>
-</div>
+| | | |
+| :---: | :---: | :---: |
+| <a href="https://doublechuang.github.io/price-libra/"><img src="https://img.shields.io/badge/price--libra-比價網站-2ea44f" alt="price-libra"></a><br><b>price-libra</b><br><sub>台灣各賣場商品價格比較網站<br>Price comparison website for Taiwanese retailers</sub><br><br><a href="https://doublechuang.github.io/price-libra/"><img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&style=flat"></a> | <a href="https://doublechuang.github.io/time-chamber/"><img src="https://img.shields.io/badge/time--chamber-自由潛水-4e9a06" alt="time-chamber"></a><br><b>time-chamber</b><br><sub>自由潛水呼吸訓練 — 雙曲線時間艙<br>Freediving breathing trainer — Hyperbolic Time Chamber</sub><br><br><a href="https://doublechuang.github.io/time-chamber/"><img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&style=flat"></a> | <a href="https://doublechuang.github.io/"><img src="https://img.shields.io/badge/doublechuang.github.io-部落格-4078c0" alt="doublechuang.github.io"></a><br><b>doublechuang.github.io</b><br><sub>個人部落格與網站<br>Personal blog and website</sub><br><br><a href="https://doublechuang.github.io/"><img src="https://img.shields.io/badge/-Jekyll-CC0000?logo=jekyll&style=flat"></a> |
 
 ## Recent Blog Posts(最新文章)
 
