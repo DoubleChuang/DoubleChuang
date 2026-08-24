@@ -24,7 +24,7 @@
 - [07 - 遠端存取](https://doublechuang.github.io/posts/07-%E9%81%A0%E7%AB%AF%E5%AD%98%E5%8F%96/)
 - [06 - HomeKit 與 Siri](https://doublechuang.github.io/posts/06-HomeKit%E8%88%87Siri/)
 - [05 - 塗鴉插座整合](https://doublechuang.github.io/posts/05-%E5%A1%97%E9%B4%89%E6%8F%92%E5%BA%A7/)
-- [04 - 疑難排解](https://doublechuang.github.io/posts/04-%E7%96%91%E9%9B%A3%E6%8E%92%E8%A7%A3/)
+- [【OpenVPN 排錯實錄】Cipher BF-CBC not supported:路由器伺服器為何一直失敗?](https://doublechuang.github.io/posts/openvpn-bf-cbc/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Technologies(技術)
