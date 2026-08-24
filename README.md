@@ -2,6 +2,8 @@
 
 > When I Wrote It, Only God and I Knew the Meaning; Now God Alone Knows
 
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black&style=flat)](https://buymeacoffee.com/ethan9141y)
+
 ## Project Pages(專案頁面)
 
 - [![price-libra](https://img.shields.io/badge/price--libra-比價網站-2ea44f)](https://doublechuang.github.io/price-libra/)
