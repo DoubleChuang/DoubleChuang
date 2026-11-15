@@ -8,6 +8,7 @@
 | ＊ | ＊ | ＊ |
 | :---: | :---: | :---: |
 | <a href="https://doublechuang.github.io/price-libra/"><img src="https://img.shields.io/badge/price--libra-比價網站-2ea44f" alt="price-libra"></a><br><b>price-libra</b><br><sub>台灣各賣場商品價格比較網站<br>Price comparison website for Taiwanese retailers</sub><br><br><a href="https://doublechuang.github.io/price-libra/"><img src="https://img.shields.io/badge/-HTML-933318?logo=html5&style=flat"></a> | <a href="https://doublechuang.github.io/time-chamber/"><img src="https://img.shields.io/badge/time--chamber-自由潛水-4e9a06" alt="time-chamber"></a><br><b>time-chamber</b><br><sub>自由潛水呼吸訓練 — 精神時光屋<br>Freediving breathing trainer — Hyperbolic Time Chamber</sub><br><br><a href="https://doublechuang.github.io/time-chamber/"><img src="https://img.shields.io/badge/-HTML-933318?logo=html5&style=flat"></a> | <a href="https://doublechuang.github.io/"><img src="https://img.shields.io/badge/doublechuang.github.io-部落格-4078c0" alt="doublechuang.github.io"></a><br><b>doublechuang.github.io</b><br><sub>個人部落格與網站<br>Personal blog and website</sub><br><br><a href="https://doublechuang.github.io/"><img src="https://img.shields.io/badge/-Jekyll-CC0000?logo=jekyll&style=flat"></a> |
+| <a href="https://doublechuang.github.io/cooldown-flow/"><img src="https://img.shields.io/badge/cooldown--flow-收操-8957e5" alt="cooldown-flow"></a><br><b>cooldown-flow</b><br><sub>運動後的十分鐘 — 收操課表編輯器<br>AI 一句話配課，Cloudflare Turnstile 守住模型額度</sub><br><br><a href="https://github.com/DoubleChuang/cooldown_flow"><img src="https://img.shields.io/badge/-Vue-4FC08D?logo=vuedotjs&logoColor=white&style=flat"></a> <a href="https://github.com/DoubleChuang/cooldown_flow"><img src="https://img.shields.io/badge/-Workers-F38020?logo=cloudflareworkers&logoColor=white&style=flat"></a> | | |
 
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black&style=flat)](https://buymeacoffee.com/ethan9141y)
@@ -15,6 +16,7 @@
 ## Recent Blog Posts(最新文章)
 
 <!-- BLOG-POST-LIST:START -->
+- [【收操 · 緩】用 Cloudflare Turnstile 守住 AI 模型額度](https://doublechuang.github.io/posts/cloudflare-turnstile-ai-quota/)
 - [【opencode 自架】用 Caddy + Docker 把 AI 編碼助手安全開上外網](https://doublechuang.github.io/posts/opencode-web-remote-access/)
 - [08 - 日常維護](https://doublechuang.github.io/posts/08-%E6%97%A5%E5%B8%B8%E7%B6%AD%E8%AD%B7/)
 - [07 - 遠端存取](https://doublechuang.github.io/posts/07-%E9%81%A0%E7%AB%AF%E5%AD%98%E5%8F%96/)
