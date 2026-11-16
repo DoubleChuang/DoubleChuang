@@ -35,6 +35,7 @@
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi&style=flat)](https://github.com/search?q=user%3ADoubleChuang+topic%3Araspberry-pi&type=repositories)
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&style=flat)](https://github.com/search?q=user%3ADoubleChuang+topic%3Aarduino&type=repositories)
 [![Android](https://img.shields.io/badge/-Android-278F55?logo=android&style=flat)](https://github.com/DoubleChuang?tab=repositories&q=&type=&language=Java)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat)](https://github.com/DoubleChuang?tab=repositories&q=&type=&language=Kotlin)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-9A311C?logo=pytorch&style=flat)](https://github.com/search?q=user%3ADoubleChuang+topic%3Apytorch&type=repositories)
 [![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&style=flat)](https://github.com/search?q=user%3ADoubleChuang+topic%3Aopencv&type=repositories)
 [![Qt](https://img.shields.io/badge/-Qt-2A8535?logo=qt&style=flat)](https://github.com/search?q=user%3ADoubleChuang+topic%3Aqt&type=repositories)
